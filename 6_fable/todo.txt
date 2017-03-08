@@ -1,0 +1,4 @@
+- esto es por npm
+- npm install
+- npm run build
+- en windows: iisexpress /path:C:\{...}\fsmeetupdemos\6_fable\site /port:9090 /clr:v2.0

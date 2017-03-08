@@ -1,0 +1,13 @@
+source https://www.nuget.org/api/v2
+
+nuget FSharp.Core prerelease redirects: force
+
+nuget Suave
+
+nuget FSharp.Data 
+
+group Build
+
+    source https://nuget.org/api/v2  
+
+    nuget FAKE

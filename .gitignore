@@ -1,0 +1,11 @@
+packages/
+.paket/paket.exe
+
+5_fakepaket/.fake
+5_fakepaket/.paket/paket.exe
+5_fakepaket/.packages/
+5_fakepaket/src/any/
+5_fakepaket/src/bin/
+5_fakepaket/src/obj/
+
+6_fable/node_modules/

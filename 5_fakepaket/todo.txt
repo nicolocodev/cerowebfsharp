@@ -1,0 +1,7 @@
+- Explicar .paket y paket.bootstrapper.exe
+
+- paket.dependencies
+
+- .paket\paket.bootstrapper.exe prerelase || .paket\paket.bootstrapper.exe 4.0.0-beta030 (?)
+
+- paket install 

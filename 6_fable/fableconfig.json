@@ -1,0 +1,16 @@
+{
+    "sourceMaps": true,
+    "projFile": "./app.fsx",
+    "outDir": "out",
+    "rollup": {
+        "dest": "./site/bundle.js",
+        "external": [
+            "react",
+            "react-dom"
+        ],
+        "globals": {
+            "react": "React",
+            "react-dom": "ReactDOM"
+        }
+    }
+}
